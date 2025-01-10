@@ -63,7 +63,5 @@ This repository contains a **Text-to-Image Generator** powered by the [Stable Di
 - Torch
 - PIL (Pillow)
 
-Refer to the `requirements.txt` file for the full list of dependencies.
-
 ---
 
